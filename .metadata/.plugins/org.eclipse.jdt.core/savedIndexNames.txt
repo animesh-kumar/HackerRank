@@ -1,0 +1,3 @@
+INDEX VERSION 1.127+/home/animesh/Installations/Eclipse/Workspaces/Code Challenges/HackerRank/.metadata/.plugins/org.eclipse.jdt.core
+1953982155.index
+92093340.index
