@@ -30,5 +30,5 @@ Sample Output
 2<br>
 
 
-Explanation 
+Explanation <br>
 Only "a", "b" are the two kind of gem-elements, since these are the only characters that occur in each of the rocks' composition.
