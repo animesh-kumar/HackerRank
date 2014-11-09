@@ -45,23 +45,29 @@ Sample Output #01<br>
 8<br>
 6<br>
 4<br>
-1<br>
+1<br><br><br>
 Explanation<br>
 <br><br>
 Sample Case #00 :<br>
 <br>
-sticks-length        length-of-cut   sticks-cut<br>
-5 4 4 2 2 8             2               6<br>
-3 2 2 _ _ 6             2               4<br>
-1 _ _ _ _ 4             1               2<br>
-_ _ _ _ _ 3             3               1<br>
-_ _ _ _ _ _           DONE            DONE<br><br>
+<table>
+<tr><th>sticks-length </th>  <th>     length-of-cut</th>   <th>sticks-cut</th></tr>
+<tr><td>5 4 4 2 2 8   </td><td>          2   </td><td>             6</td></tr>
+<tr><td>3 2 2 _ _ 6       </td><td>       2     </td><td>           4</td></tr>
+<tr><td>1 _ _ _ _ 4        </td><td>      1       </td><td>        2</td></tr>
+<tr><td>_ _ _ _ _ 3          </td><td>    3     </td><td>           1</td></tr>
+<tr><td>_ _ _ _ _ _         </td><td>   DONE      </td><td>       DONE</td></tr>
+</table>
+<br>
 Sample Case #01<br>
 
-sticks-length         length-of-cut   sticks-cut<br>
-1 2 3 4 3 3 2 1         1               8<br>
-_ 1 2 3 2 2 1 _         1               6<br>
-_ _ 1 2 1 1 _ _         1               4<br>
-_ _ _ 1 _ _ _ _         1               1<br>
-_ _ _ _ _ _ _ _       DONE            DONE<br>
+<table>
+<tr><th>sticks-length </th>  <th>     length-of-cut</th>   <th>sticks-cut</th></tr>
+<tr><td>1 2 3 4 3 3 2 1   </td><td>          1   </td><td>             8</td></tr>
+<tr><td>_ 1 2 3 2 2 1 _        </td><td>       1     </td><td>           6</td></tr>
+<tr><td>_ _ 1 2 1 1 _ _         </td><td>      1       </td><td>       4</td></tr>
+<tr><td>_ _ _ 1 _ _ _ _          </td><td>    1     </td><td>           1</td></tr>
+<tr><td>_ _ _ _ _ _ _ _        </td><td>   DONE      </td><td>       DONE</td></tr>
+</table>
+
 <br>
