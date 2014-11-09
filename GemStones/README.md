@@ -19,12 +19,16 @@ Each composition consists of only small latin letters ('a'-'z').
 
 Sample Input
 
-3
-abcdde
-baccd
-eeabg
+3 <br>
+abcdde<br>
+baccd<br>
+eeabg<br>
+
+<br>
 Sample Output
 
-2
+2<br>
+
+
 Explanation 
 Only "a", "b" are the two kind of gem-elements, since these are the only characters that occur in each of the rocks' composition.
